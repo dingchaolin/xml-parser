@@ -1,0 +1,26 @@
+<responseXml>
+    <successInfo>1</successInfo>
+    <PdfFlow>JVBERi0xLjQKJdP0zOEKJSBQREZzaGFycCBWZXJzaWMz……</PdfFlow>
+    <DocumentIdentifier>
+        <IPID>12344321_1</IPID>
+        <FunctionId>AntimicroConsApply</FunctionId>
+    </DocumentIdentifier>
+    <OtherInfo>
+        <DocumentName>微生物会诊</DocumentName>
+        <DocumentType>PDF</DocumentType>
+        <Creator>xwu</Creator>
+        <CreatorName>吴雪</CreatorName>
+        <CreateTime>20130926092205</CreateTime>
+        <AuditUserId>xwu</AuditUserId>
+        <AuditUserName>吴雪</AuditUserName>
+        <AuditTime>20130926092212</AuditTime>
+        <IPID>12344321_1</IPID>
+        <PID>12344321</PID>
+        <AdminissionNo>12344321</AdminissionNo>
+        <PatientName>PDF打印测试</PatientName>
+        <SexCode>1</SexCode>
+        <Sex>男</Sex>
+        <Age>11</Age>
+        <AgeDesc>11岁</AgeDesc>
+    </OtherInfo>
+</responseXml>
